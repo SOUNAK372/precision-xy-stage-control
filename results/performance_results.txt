@@ -1,0 +1,38 @@
+PRECISION XY STAGE CONTROL
+===========================
+
+SYSTEM MODEL
+Mass = 1.0000 kg
+Damping = 2.0000 N.s/m
+Motor Gain = 10.0000
+
+MANUAL PID CONTROLLER
+Kp = 18.000000
+Ki = 5.000000
+Kd = 3.000000
+
+STEP RESPONSE PERFORMANCE
+Rise Time = 0.056400 s
+Settling Time = 0.406771 s
+Overshoot = 7.323960 %
+
+TRAJECTORY TRACKING
+Maximum Error = 0.03721711 m
+RMS Error = 0.00247119 m
+Final Error = 0.00001356 m
+
+VELOCITY FEEDFORWARD
+Feedforward Gain = 0.200000
+Maximum Feedforward Error = 0.03704625 m
+RMS Feedforward Error = 0.00245533 m
+
+DISTURBANCE REJECTION
+Maximum Disturbance Error = 0.03996279 m
+
+ACTUATOR SATURATION
+Actuator Limit = 1.0000
+
+AUTOMATIC PID TUNING
+Auto Kp = 0.843651
+Auto Ki = 0.431172
+Auto Kd = 0.366826
