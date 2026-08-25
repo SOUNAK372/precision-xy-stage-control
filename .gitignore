@@ -1,0 +1,22 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated/cache files
+*.slxc
+*.mex*
+*.p
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary folders
+temp/
+tmp/
